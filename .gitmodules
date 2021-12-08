@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/cathblatter/universe
 	shallow = true
 	branch = HEAD
+[submodule "cblttr"]
+	path = cblttr
+	url = https://github.com/cathblatter/cblttr
+	shallow = true
+	registered = true
