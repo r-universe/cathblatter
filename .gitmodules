@@ -1,15 +1,11 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/cathblatter/universe
-	shallow = true
 	branch = HEAD
 [submodule "cblttr"]
 	path = cblttr
 	url = https://github.com/cathblatter/cblttr
-	shallow = true
-	registered = true
 [submodule "icons"]
 	path = icons
 	url = https://github.com/mitchelloharawild/icons
-	shallow = true
 	registered = false
