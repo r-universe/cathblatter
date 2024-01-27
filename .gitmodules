@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/cathblatter/universe
+	url = https://github.com/cathblatter/cathblatter.r-universe.dev
 	branch = HEAD
 [submodule "cblttr"]
 	path = cblttr
