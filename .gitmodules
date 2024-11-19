@@ -5,7 +5,13 @@
 [submodule "cblttr"]
 	path = cblttr
 	url = https://github.com/cathblatter/cblttr
+[submodule "fidelitysim"]
+	path = fidelitysim
+	url = https://github.com/INS-Basel/fidelitysim
 [submodule "icons"]
 	path = icons
 	url = https://github.com/mitchelloharawild/icons
 	registered = false
+[submodule "starfish"]
+	path = starfish
+	url = https://github.com/cathblatter/starfish
